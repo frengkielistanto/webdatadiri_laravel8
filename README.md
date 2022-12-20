@@ -1,2 +1,2 @@
-<h1 align="center">Laravel 8 Blog</h1>
+<h1 align="center">Laravel 8 data diri</h1>
 
